@@ -1,5 +1,3 @@
-Here’s a detailed README.md template for your project. This will cover the installation steps, API usage, contribution guidelines, and other essential information for your faq_project:
-
 FAQ Project
 
 This project is a Django-based application for managing Frequently Asked Questions (FAQs) with multilingual support, using a WYSIWYG editor for the answers. It includes a REST API for managing FAQs, supports language translation, and provides a user-friendly admin interface.
