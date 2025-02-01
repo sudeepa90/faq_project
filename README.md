@@ -1,3 +1,6 @@
+![{8841D508-6074-4560-9BAA-D8CB2B259006}](https://github.com/user-attachments/assets/2f70bf5c-c05d-4dcb-9197-425730cdaa41)
+![Uploading {D257518A-57B4-400C-8AFC-650021FF195E}.png…]()
+
 FAQ Project
 
 This project is a Django-based application for managing Frequently Asked Questions (FAQs) with multilingual support, using a WYSIWYG editor for the answers. It includes a REST API for managing FAQs, supports language translation, and provides a user-friendly admin interface.
